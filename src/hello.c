@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2023 Rumbledethumps
+ *
+ * SPDX-License-Identifier: MIT-0
+ * SPDX-License-Identifier: Unlicense
+ */
+
 #include <rp6502.h>
 #include <stdint.h>
 #include <stdbool.h>
